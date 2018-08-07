@@ -1,0 +1,31 @@
+body {
+  font-family: 'Kirang Haerang', cursive;
+}
+
+p {
+  color: #000;
+}
+
+header {
+  background: pink;
+  height: 150px;
+}
+
+header h1 {
+  font-size: 60px !important;
+  padding-top: 10px;
+
+}
+
+h4.gameOver {
+  color: red;
+  font-size: 60px;
+}
+
+p.instructions-1 {
+  font-size: 40px;
+}
+
+p.instructions-2 {
+  color: #fff;
+}
